@@ -1,4 +1,4 @@
-// PocketbaseExtended.h repo test
+// PocketbaseExtended.h
 
 #ifndef PocketbaseExtended_h
 #define PocketbaseExtended_h
